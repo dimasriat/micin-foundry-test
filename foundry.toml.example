@@ -5,5 +5,5 @@ libs = ['lib']
 
 remappings = ['lib/=lib']
 verbosity = 3
-eth-rpc-url = "https://speedy-nodes-nyc.moralis.io/6968d91b1645c106eef6c4e9/bsc/mainnet"
+eth-rpc-url = "<bsc rpc>"
 chain_id = 56
